@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hinduism vs Buddhism</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background: #555;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #333;
+            color: white;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hinduism and Buddhism</h1>
+    <p>Compare and Contrast of Teachings</p>
+</header>
+
+<nav>
+    <a href="#overview">Overview</a>
+    <a href="#similarities">Similarities</a>
+    <a href="#differences">Differences</a>
+</nav>
+
+<section id="overview">
+    <h2>Overview</h2>
+    <p>Hinduism and Buddhism are two major religions that originated in India. Hinduism is one of the oldest religions in the world, while Buddhism was founded later by Siddhartha Gautama, known as the Buddha.</p>
+</section>
+
+<section id="similarities">
+    <h2>Similarities</h2>
+    <ul>
+        <li>Both religions originated in India.</li>
+        <li>Both believe in karma</li>
+        <li>Both believe in reincarnation</li>
+        <li>Both want enlightenment</li>
+    </ul>
+</section>
+
+<section id="differences">
+    <h2>Differences</h2>
+    <table>
+        <tr>
+            <th>Aspect</th>
+            <th>Hinduism</th>
+            <th>Buddhism</th>
+        </tr>
+        <tr>
+            <td>Founder</td>
+            <td>No single founder</td>
+            <td>Buddha</td>
+        </tr>
+        <tr>
+            <td>Gods</td>
+            <td>polytheistic</td>
+            <td>No focus on gods</td>
+        </tr>
+
+        <tr>
+            <td>Caste System</td>
+            <td>Accepted</td>
+            <td>Rejected</td>
+        </tr>
+    </table>
+</section>
+
+<footer>
+    <p>Created By Mohammad Hamza</p>
+</footer>
+
+</body>
+</html>
